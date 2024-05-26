@@ -1,0 +1,6 @@
+@VueDockerPlayground.Server_HostAddress = http://localhost:5104
+
+GET {{VueDockerPlayground.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
