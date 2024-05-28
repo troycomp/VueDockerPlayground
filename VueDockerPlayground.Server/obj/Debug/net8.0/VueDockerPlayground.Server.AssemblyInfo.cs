@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VueDockerPlayground.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5ae98e1f56fcacd57a5ed9aaf73f76683e83ab5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3444be9ce41ece360bbc51f801f7975cbba6ac15")]
 [assembly: System.Reflection.AssemblyProductAttribute("VueDockerPlayground.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VueDockerPlayground.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
