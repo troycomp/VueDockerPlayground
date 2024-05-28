@@ -11,6 +11,10 @@ WORKDIR /src
 COPY ["VueDockerPlayground.Server/VueDockerPlayground.Server.csproj", "VueDockerPlayground.Server/"]
 RUN dotnet restore "VueDockerPlayground.Server/VueDockerPlayground.Server.csproj"
 COPY . .
+RUN apt-get update -yq 
+RUN apt-get install curl gnupg -yq 
+RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
+RUN apt-get install -y nodejs
 WORKDIR "/src/VueDockerPlayground.Server"
 RUN dotnet build "VueDockerPlayground.Server.csproj" -c $configuration -o /app/build
 

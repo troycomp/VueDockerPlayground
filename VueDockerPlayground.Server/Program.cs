@@ -24,6 +24,17 @@ var summaries = new[]
     "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
 };
 
+/*
+app.MapGet("/createfile", async () =>{
+    IFormFile file= await app.Request.Form.Files.FirstOrDefaultAsync();
+using (var ms = new MemoryStream())
+using (var fs = System.IO.File.Create(filePath))
+{
+    await file.CopyToAsync(ms);
+    await fs.WriteAsync(ms.ToArray());
+}
+});
+*/
 app.MapGet("/weatherforecast", () =>
 {
     var forecast = Enumerable.Range(1, 5).Select(index =>
