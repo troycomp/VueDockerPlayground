@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "nR3kioleIqKfsysGySpNx8ERNxZOVF7mRticR74TjWM=",
+  "Hash": "IrSzNETmeAOUiotBqJ0LEMxRjN2ZsCqUIpayXTfJ9V8=",
   "Source": "VueDockerPlayground.Server",
   "BasePath": "_content/VueDockerPlayground.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "/Users/troycompton/Documents/code/vue-stuff/VueDockerPlayground/vuedockerplayground.client/vuedockerplayground.client.esproj",
+      "Identity": "d:\\code\\NemoQ\\VueDockerPlayground\\vuedockerplayground.client\\vuedockerplayground.client.esproj",
       "Version": 2,
       "Source": "vuedockerplayground.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

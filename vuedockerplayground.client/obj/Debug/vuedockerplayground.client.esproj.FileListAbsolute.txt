@@ -1,1 +1,2 @@
 /Users/troycompton/Documents/code/vue-stuff/VueDockerPlayground/vuedockerplayground.client/obj/Debug/vuedockerplayground.client.esproj.CoreCompileInputs.cache
+d:\code\NemoQ\VueDockerPlayground\vuedockerplayground.client\obj\Debug\vuedockerplayground.client.esproj.CoreCompileInputs.cache

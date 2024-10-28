@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/troycompton/Documents/code/vue-stuff/VueDockerPlayground/VueDockerPlayground.Server/VueDockerPlayground.Server.csproj": {}
+    "d:\\code\\NemoQ\\VueDockerPlayground\\VueDockerPlayground.Server\\VueDockerPlayground.Server.csproj": {}
   },
   "projects": {
-    "/Users/troycompton/Documents/code/vue-stuff/VueDockerPlayground/VueDockerPlayground.Server/VueDockerPlayground.Server.csproj": {
+    "d:\\code\\NemoQ\\VueDockerPlayground\\VueDockerPlayground.Server\\VueDockerPlayground.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/troycompton/Documents/code/vue-stuff/VueDockerPlayground/VueDockerPlayground.Server/VueDockerPlayground.Server.csproj",
+        "projectUniqueName": "d:\\code\\NemoQ\\VueDockerPlayground\\VueDockerPlayground.Server\\VueDockerPlayground.Server.csproj",
         "projectName": "VueDockerPlayground.Server",
-        "projectPath": "/Users/troycompton/Documents/code/vue-stuff/VueDockerPlayground/VueDockerPlayground.Server/VueDockerPlayground.Server.csproj",
-        "packagesPath": "/Users/troycompton/.nuget/packages/",
-        "outputPath": "/Users/troycompton/Documents/code/vue-stuff/VueDockerPlayground/VueDockerPlayground.Server/obj/",
+        "projectPath": "d:\\code\\NemoQ\\VueDockerPlayground\\VueDockerPlayground.Server\\VueDockerPlayground.Server.csproj",
+        "packagesPath": "C:\\Users\\troy\\.nuget\\packages\\",
+        "outputPath": "d:\\code\\NemoQ\\VueDockerPlayground\\VueDockerPlayground.Server\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/troycompton/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\troy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -27,6 +27,8 @@ if (!fs.existsSync(certFilePath) || !fs.existsSync(keyFilePath)) {
     if (0 !== child_process.spawnSync('dotnet', [
         'dev-certs',
         'https',
+        '--trust',
+        '--verbose',
         '--export-path',
         certFilePath,
         '--format',

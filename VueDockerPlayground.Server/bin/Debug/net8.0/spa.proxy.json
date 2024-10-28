@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "/Users/troycompton/Documents/code/vue-stuff/VueDockerPlayground/VueDockerPlayground.Server/../vuedockerplayground.client",
+"WorkingDirectory": "d:\\code\\NemoQ\\VueDockerPlayground\\VueDockerPlayground.Server\\..\\vuedockerplayground.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
